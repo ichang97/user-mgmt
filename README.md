@@ -7,7 +7,7 @@
 - php artisan serve
 
 # Stacks
-- HTML, Javascript
+- HTML, Javascript with Bootstrap 5
 - PHP with Laravel Framework V.13
 - SQLite
 
